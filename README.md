@@ -4,6 +4,8 @@ This is a Reading List app bootstrapped with [Create React App](https://github.c
 
 In this app, you can create, browse, edit or delete book items. Each book item you create would be automatically shown within a card with a matching picture. The data is stored with json-server.
 
+![image](https://user-images.githubusercontent.com/97832811/209922549-95b16c86-9887-4fba-8e38-15c61a45ffb9.png)
+
 ## Available Scripts
 
 In the project directory, you can run:
