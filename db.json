@@ -1,0 +1,16 @@
+{
+  "books": [
+    {
+      "title": "Too Loud A Solitude",
+      "id": 1
+    },
+    {
+      "title": "Le città invisibili",
+      "id": 2
+    },
+    {
+      "title": "A Gate at the Stairs",
+      "id": 3
+    }
+  ]
+}
