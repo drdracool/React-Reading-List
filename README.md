@@ -1,4 +1,6 @@
-# Introduction
+# A Web-Based Reading List Management Application
+
+## About the project
 
 This is a Reading List app bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
